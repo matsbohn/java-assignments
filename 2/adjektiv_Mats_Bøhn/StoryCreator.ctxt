@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=StoryCreator
+comment1.params=
+comment1.target=StoryCreator()
+comment2.params=filename
+comment2.target=java.lang.String\ randomizer(java.lang.String)
+comment2.text=\n\ Returns\ a\ random\ index\ value\ from\ an\ ArrayList\ of\ adjectives.\n
+comment3.params=storyFilename\ adjectivesFilename\ outputFilename
+comment3.target=void\ createAdjectiveStory(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\n\ Creates\ a\ new\ adjective\ story\ where\ the\ user\ selects\ a\ story\ file\ and\ an\n\ adjective\ file\ as\ input\ sources\ and\ a\ name\ for\ an\ output\ file.\n
+comment4.params=storyFilename\ outputFilename
+comment4.target=void\ createAdjectiveStory(java.lang.String,\ java.lang.String)
+comment4.text=\n\ Creates\ a\ new\ adjective\ story\ where\ the\ user\ selects\ a\ story\ file,\ a\ name\ for\n\ an\ output\ file\ and\ inputs\ adjectives\ in\ the\ terminal.\ Counts\ \ \n\ Typing\ "exit"\ prints\ the\ unfinished\ story.\n
+comment5.params=storyFilename\ dictionaryFilename\ outputFilename
+comment5.target=void\ createAdjectiveStoryFromDictionary(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.text=\n\ Creates\ a\ new\ adjective\ story\ where\ the\ user\ selects\ a\ story\ file,\ a\n\ dictionary\ file\ and\ a\ name\ for\ an\ output\ file.\n
+comment6.params=dictionaryFilename
+comment6.target=java.util.ArrayList\ getAdjectives(java.lang.String)
+comment6.text=\n\ Returns\ an\ adjective\ from\ an\ ArrayList\ of\ a\ dictionary\ files\ adjectives\ and\ converts\ them\ to\n\ lower-case.\n
+numComments=7

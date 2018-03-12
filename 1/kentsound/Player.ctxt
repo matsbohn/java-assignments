@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Constructor\ ...\n
+comment2.params=
+comment2.target=PlayList\ getPlayList()
+comment2.text=\n\ Return\ the\ track\ collection\ currently\ loaded\ in\ this\ player.\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\n\ \ Plays\ the\ selected\ track.\ \n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\n\ Stops\ the\ current\ track\ playing.\n
+comment5.params=trackNumber
+comment5.target=void\ setTrack(int)
+comment5.text=\n\ Loads\ a\ track\ into\ the\ player.\n
+comment6.params=
+comment6.target=java.lang.String\ getTrackName()
+comment6.text=\n\ Returns\ the\ track\ name.\ \n\ Return\ an\ empty\ string\ if\ a\ track\ is\ not\ selected.\n
+comment7.params=
+comment7.target=java.lang.String\ getTrackInfo()
+comment7.text=\n\ Return\ information\ about\ the\ currently\ selected\ track.\ The\ information\n\ contains\ the\ track\ name\ and\ playing\ time,\ in\ the\ format\n\ \ \ \ track-name\ (playing\ time)\n\ Return\ an\ empty\ string\ if\ no\ track\ is\ selected.\n
+numComments=8

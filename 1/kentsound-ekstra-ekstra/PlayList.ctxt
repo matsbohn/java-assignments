@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=directoryName
+comment0.target=PlayList(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ TrackCollection\n\n
+comment1.params=trackNumber
+comment1.target=Track\ getTrack(int)
+comment1.text=\nReturn\ a\ track\ from\ this\ collection.\n\n
+comment2.target=int\ numberOfTracks()
+comment2.text=\nReturn\ the\ number\ of\ tracks\ in\ this\ collection.\n\n
+comment3.params=dirName
+comment3.target=List<Track>\ loadTracks(String)
+comment3.text=\nLoad\ the\ file\ names\ of\ all\ files\ in\ the\ given\ directory.\n@param\ dirName\ Directory\ (folder)\ name.\n@param\ suffix\ File\ suffix\ of\ interest.\n@return\ The\ names\ of\ files\ found.\n\n
+comment4.target=String[]\ asStrings()
+comment4.text=\nReturn\ this\ playlist\ as\ an\ array\ of\ strings\ with\ the\ track\ names.\n\n
+numComments=5

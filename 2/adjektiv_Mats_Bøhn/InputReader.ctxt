@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\n\ Class\ for\ reading\ input\ from\ file.\ You\ may\ want\ to\ expand\ it,\ if\ needed...\n\ \n\ @author\ (Per\ Lauv\u00E5s\ &\ Tor-Morten\ Gr\u00F8nli)\ \n\ @version\ (2.0)\n
+comment1.params=
+comment1.target=InputReader()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InputReader\n
+comment2.params=filename
+comment2.target=java.util.ArrayList\ getWordsInFile(java.lang.String)
+comment2.text=\n\ Return\ all\ the\ words\ in\ a\ file\ -\ BufferedReader\ implementation\n\ \n\ @param\ \ \ \ filename\ the\ name\ of\ the\ file\n\ @return\ \ \ an\ arraylist\ of\ all\ the\ words\ in\ the\ file\n
+comment3.params=filename
+comment3.target=java.util.ArrayList\ getWordsInFileWithScanner(java.lang.String)
+comment3.text=\n\ Return\ all\ the\ words\ in\ a\ file\ -\ scanner\ implementation\n\ \n\ @param\ \ \ \ filename\ the\ name\ of\ the\ file\n\ @return\ \ \ an\ arraylist\ of\ all\ the\ words\ in\ the\ file\n
+numComments=4
